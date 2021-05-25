@@ -1,0 +1,14 @@
+.shadowcard {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+.cardcontent{
+    
+    background:linear-gradient(to right,  rgb(36, 5, 80), #600ea3);
+    color:rgb(234, 233, 245);
+    letter-spacing: 1px;
+    font-family: 'Bangers', cursive;
+}  
+.modal-lg {
+  max-width: 100% !important;
+}
