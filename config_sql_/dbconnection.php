@@ -1,9 +1,9 @@
 <?php
 //variables required
 $severname="localhost";
-$username="id13914166_codeprginfo1234";
-$password="CODEnayan@1234";
-$database="id13914166_codeprginfo";
+$username="";
+$password="";
+$database="";
 
 //connecting to the database codeprginfo
 
